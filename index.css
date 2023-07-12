@@ -1,0 +1,47 @@
+body{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+     
+    background-color: #ffffcc;
+}
+
+.heading{
+    text-align: center;
+    font-style: italic;
+    background-color: #990000;
+    padding: 5px;
+    border-bottom: 10px solid #cc0000;
+    color: #fff;
+    letter-spacing: 2rem;
+}
+
+.greenHeading{
+    padding: 5px 40px;
+    background-color: #009900;
+    color: #fff;
+}
+
+b{
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+li{
+    font-style: italic;
+    color: #cc0000;
+}
+
+.image{
+    background-color: #fff;
+    padding: 20px;
+    border: 1px dotted gray;
+}
+
+.greyText{
+    color: gray;
+}
+table{
+    width: max-content;
+    background: #cccccc;
+}
